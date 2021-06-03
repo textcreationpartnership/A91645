@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rendezvouz of General Monck, upon the confines of England; and the setting up of the Parliaments standard on Berwick Hills: with the number of his forces; and the securing of the Kings sconce, and several other forts. Also, a declaration of the lords, knights, ministers, and gentry, in the northern parts; and their adhering to Gen. Monck; in the name of themselves, and the Parliament. And proposals to the free-born people of England.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91645</idno><idno type="EEBO-CITATION">99866933</idno>
+  <idno type="VID">168736</idno>
+  <idno type="EEBO-PROQUEST">2240917431</idno>
+  
+            <idno type="STC">Wing R1035</idno>
+            <idno type="STC">Thomason E1005_11</idno>
+            <idno type="STC">ESTC R207914</idno>
+            <idno type="PROQUEST">99866933</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866933e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168736)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 149:E1005[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rendezvouz of General Monck, upon the confines of England; and the setting up of the Parliaments standard on Berwick Hills: with the number of his forces; and the securing of the Kings sconce, and several other forts. Also, a declaration of the lords, knights, ministers, and gentry, in the northern parts; and their adhering to Gen. Monck; in the name of themselves, and the Parliament. And proposals to the free-born people of England.</title>
+               </titleStmt>
+               <extent>[7], 1 p.   </extent>
+               <publicationStmt>
+                  <publisher>York: printed for Richard Forster, living in the Minster-Yard; and re-printed at London, for publick satisfaction,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou. 4. 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168736:1"/>
+            <p>THE RENDEZVOUZ <hi>OF</hi> General Monck, UPON The Confines of <hi>England;</hi> AND The Setting up of the <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi> Standard on <hi>Berwick</hi> Hills: With the Number of His Forces; and the securing of the Kings Sconce, and several other FORTS.</p>
+            <p>
+               <hi>ALSO,</hi> A <hi>Declaration</hi> of the <hi>LORDS, Knights, Ministers,</hi> and <hi>Gentry,</hi> in the <hi>Northern parts;</hi> and their adhering to Gen. <hi>Monck;</hi> In the Name of Them<g ref="char:EOLhyphen"/>selves, and the Parliament. And <hi>Proposals</hi> to the Free-born people of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>YORK:</hi> Printed for <hi>Richard Foster,</hi> living in the <hi>Minster.</hi> Yard; And Re-printed at <hi>London,</hi> for publick satisfaction.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:168736:2"/>
+            <pb n="3" facs="tcp:168736:2"/>
+            <head>A Declaration of the Earls, Lords, Knights, Gentlemen, Ministers, Ci<g ref="char:EOLhyphen"/>tizens, and Free-holders, throughout the Counties of <hi>York, Northum<g ref="char:EOLhyphen"/>berland,</hi> and the rest of the <hi>Nor<g ref="char:EOLhyphen"/>thern Parts.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince it hath pleased Almighty God to suffer the Spirit of Division to continue in this distracted Nation, and to leave Us without any setled Foundation of Reli<g ref="char:EOLhyphen"/>gion, Liberty, or property, the Legislative power usur<g ref="char:EOLhyphen"/>ped and contemned at pleasure, the Armies raised at first for our Defence, abused and misled into unwar<g ref="char:EOLhyphen"/>rantable actions, by the cunning and ambition of some of their supe<g ref="char:EOLhyphen"/>riour Officers; no face of Government appearing, or Body of Men in Counsel lawfully constituted, to whom the grievances of the people may with any probability of success be properly addressed. We (be<g ref="char:EOLhyphen"/>ing conscious of our Duty, and sensible of our own, and the Nations Ruine, if these Distractions continue, or resolve into a more fixt Op<g ref="char:EOLhyphen"/>pression by some corrupt settlement, inconstant with the Laws, Peace, and Interest of the Nation) do declare, in defence of our selves, and all others, who will pertake with Us in the vindication and main<g ref="char:EOLhyphen"/>tenance of the Freedom of Parliaments, against all violence whatsoe<g ref="char:EOLhyphen"/>ver of the known Laws, Liberty, and property of the good people of this Nation, who at present groan under illegal, arbitrary, and insup<g ref="char:EOLhyphen"/>portable Oppressions, unknown to our Ancestors. This being Our Duty to God and Man, and out onely Design, we cannot dispair of the Blessing of Him that gives Victory, nor of the chearful concurrence of all good men, in the maintenance and defence of the Ministry of the Gospel, the preservation of Religion, the Liberties of the people, and
+<pb n="4" facs="tcp:168736:3"/>the priviledges of Parliament; suffering no imposition or force on any mans Conscience; but inviolably to establish the peace of these Na<g ref="char:EOLhyphen"/>tions, and the Government of a Free State or Commonwealth, to which we stand obliged by several Vows and Engagements, made in the presence of the great God, and Holy Angels.</p>
+            <div type="proposals">
+               <head>National Proposals, to the people of the three Nations.</head>
+               <p n="1">1 THE people of <hi>England</hi> are of Right a free people to be go<g ref="char:EOLhyphen"/>verned by their Deputies and Trustees in Parliament; It being owned and acknowledged on all hands both by Parliament and Ar<g ref="char:EOLhyphen"/>my, and all the good people engaged with them, <hi>That the people under God are the original of all just Authority,</hi> and other Original and foun<g ref="char:EOLhyphen"/>dation no man may lay.</p>
+               <p n="2">2 That the people of this Nation are the onely legal free people, and rightful immediate Heirs to that great English Birthrights of Par<g ref="char:EOLhyphen"/>liaments, the Enemies thereof to be exempted for a season: This is a principle of Right, and not to be denyed.</p>
+               <p n="3">3 To deny or deprive that people of this Inheritance, is Treason, Rebellion, and Apostacy from the <hi>Good Old Cause</hi> of the <hi>English</hi> Na<g ref="char:EOLhyphen"/>tion; for as much as a people free by Birth, by Laws, and by their own fortitude and prowess, are thereby rendered and made most absolute vassails and slaves, at will and power; and greater Treason then this no man can commit.</p>
+               <p n="4">4 This Parliament is the natural, legal, and true Majesterial Head of that Body of people, being all digested, ranked under that Authori<g ref="char:EOLhyphen"/>ty, the shackles of Tyranny being knockt off; there is no Authority Civil remaineth, but that this Parliament is the onely remaining Branch, of the peoples Authority to whom of righ belongeth the set<g ref="char:EOLhyphen"/>tlement of our Government; Therefore the Head is not to be se<g ref="char:EOLhyphen"/>vered from this Body; <hi>to wit,</hi> hat legal Authority from this legal peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p n="5">5 The Head of <hi>England</hi> is not compounded of Drums and Trum<g ref="char:EOLhyphen"/>pets, of Swords and Musquers: <hi>England</hi> is a Nation of Civil Sanction, and Constitution, to wit, of Civil Magistracy, Laws, and Government: No Campagne of War to be governed by Laws and Ordinances of War or the Votes of Army Officers in Council: The Sword of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>
+                  <pb n="5" facs="tcp:168736:3"/>is to be subject to the Civil Authority of <hi>England,</hi> to be <hi>servus servorum Populi Angliae,</hi> a servant to the servants of the people of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> for as 'tis said of fire and water, so 'tis with the sword, <hi>'Tis a good servant, but a bad Master.</hi>
+               </p>
+               <p n="6">6 As this Parliament is the only Relick of Civil Authority amongst us, that we can lay claim or challenge unto, as of popular Right &amp; De<g ref="char:EOLhyphen"/>rivation; so from thence onely all subordinate Powers and Admini<g ref="char:EOLhyphen"/>strations are to be, without which a <hi>Legal new Parliament</hi> cannot be regularly called: Law and Custom denies that prerogative to the Sword. The Army as they cannot <hi>de jure</hi> disturb and interrrupt the Free<g ref="char:EOLhyphen"/>dom and succession of Parliaments, so <hi>de jure</hi> they cannot summon a Parliament, nor impose a Government upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</p>
+               <p n="7">7 By this Parliament the Army was first raised, and became an <hi>Ar<g ref="char:EOLhyphen"/>my,</hi> and by this parliament wholly paid off before their first Interrup<g ref="char:EOLhyphen"/>tion, and by the authority of parliament can onely be paid; for to levy money upon the people without their consent in parliament, is incon<g ref="char:EOLhyphen"/>sistent to the fundamental Law of <hi>England,</hi> which saith, That no Tax or Levy is to be laid upon the people, but by their consent in parliament: This is one of the main Birth-rights of <hi>England,</hi> without which the people cannot be a free people: And therfore a necessity lies both upon people and souldier to endeavour peace and composure 'twixt parlia<g ref="char:EOLhyphen"/>ment and army, that the army may be legally paid, and not put upon Fire and Sword, plunder, Rapine, and Theft for their pay; a thing too desperate and dangerous to be vent<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in <hi>England</hi> for army or peo<g ref="char:EOLhyphen"/>ple, and there is no other way without a return of this parliament again for due prevention thereof.</p>
+               <p n="8">8 When the parliament f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und themselves, and the very interests of parliaments it self in jeopardy of a new Interruption and total Ex<g ref="char:EOLhyphen"/>tirpation for ever, by a Confederacy and Combination of some great Officers of the army: so that this parliament was even at the last Gasp, and no time left them to proceed judicially against the principal act<g ref="char:EOLhyphen"/>ors and contrivers hereof, attempted to vote them out of their Com<g ref="char:EOLhyphen"/>missions, for conservation and safety of the parliament and people, against the exorbitant Domination of the Sword, as knowing their dis<g ref="char:EOLhyphen"/>solution by force, was a total Dissolution and Extinguishment of all Civil authority in <hi>England,</hi> and an absolute subjection of the people under the Sword, with a total less of parliaments for ever, the very es<g ref="char:EOLhyphen"/>sential matter and ground-work of the Freedoms of <hi>England.</hi> So that
+<pb n="6" facs="tcp:168736:4"/>in this Necessity, Crisis and Exigency of time, they were bound in duty honour, and conscience, without delay, immediatly to cashier those servants that would turn out their Masters the parliament of <hi>England,</hi> and take possession themselves.</p>
+               <p n="9">9 It cannot be thought reasonable or tollerable, that 9 great Offi<g ref="char:EOLhyphen"/>cers of the Army should be put in the Balance and Competition with the parliaments and civil authority of <hi>England;</hi> and that rather then lose their Commissions, <hi>England</hi> must lose their parliaments, and be made subject to the sword.</p>
+               <p n="10">10 Though there were never so many failings and evils in this par<g ref="char:EOLhyphen"/>liament, yet it is no Argument or Reason that we must be deprived of our parliaments and civil authority, and subjected to the bloudy Do<g ref="char:EOLhyphen"/>mination of the Sword. It is not denied, but that both Officers and Souldiers have the Right of petitioning, but not the Right of Distur<g ref="char:EOLhyphen"/>bing, Dissolving, or suppressing of Parliaments: Had they onely endea<g ref="char:EOLhyphen"/>voured a Redress of the Evils in Parliament, it had bin tollerable and justifiable by the same Rules and Reason they formerly impeached the eleven Members; but to suppress even the parliament it self, to shake off the Reins of Civil Government, and set up the Martial in its stead, is not to be endured.</p>
+               <p>For whatever is setled beside, and without the peoples <hi>common con<g ref="char:EOLhyphen"/>sent in Parliament,</hi> cannot, in Reason, be fixed or durable, or hold to the next Generation: For as those great Officers alter and change, or get advantages one of another, so will our Government alter &amp; change, and that which is brought in and planted by the Sword, must be kept by the Sword: so that by this way of Obtrusion by the Sword, nothing but Violence and the Sword can be expected, no hope of Deliverance from the Iron Yoak of an uncontroulable power: And it is a sure Rule, That that people which are under the sole Domination of an Army, cannot be a free people; for though nothing can be done with<g ref="char:EOLhyphen"/>out arms yet if those arms be not in the hands of the people, no free<g ref="char:EOLhyphen"/>dom can be expected: And therefore the Division of the <hi>Army</hi> from the <hi>Civil Authority,</hi> is to be stopt, if possibly it may.</p>
+               <p>And to this end, many Thousands having taken the Essentials of the great Breach into consideration, have declared, <hi>In the Name of God and in the Name of the Parliament and people of</hi> England to use all lawfull means for the allaying and subduing all aspiring and illegal powers, and to endeavour a Union and Return home to the good House of
+<pb n="7" facs="tcp:168736:4"/>Parliament, to guard and defend it against all Opposers whatsoever; that so there may be a regularly proceed to such a firm Foundation of Settlement, by way of <hi>An Agreement of the people,</hi> to be subscribed by all persons in general throughout the three Nations, for the asserting and securing of their just Rights and Liberties both Civil and Religi<g ref="char:EOLhyphen"/>ous.</p>
+               <p>This, they conceive themselves very much engaged and obliged to, as well by the Rules of prudence, Justice, and Right, as from the Mo<g ref="char:EOLhyphen"/>tives thereunto inducing, contained in the <hi>Proclamation</hi> of the Lord General <hi>Monck;</hi> wherein he declares his Resolution to vindicate the Liberties of the people, and the priviledges of Parliament: And in order thereunto, is upon his march towards the Borders, having upon <hi>Berwick</hi> Hills rendezvouzed his Forces, consisting of seven thousand Horse and Foot; and afterwards commanding a party of Horse and Foot towards <hi>Mary</hi>-gate Port, he himself descended the Hills, and entring the Town, possessed himself of the Bridge, the Kings Sconce, the Half Moons, and all the Forts, Guns, and Magazine. Since which time, we hear, he is advanced over the Bridge into <hi>Northumberland,</hi> and hath taken up his Quarters in <hi>Anwick,</hi> and the Towns and Villages adjacent. It is rumour'd, that he hath taken the City of <hi>Carlisle,</hi> to<g ref="char:EOLhyphen"/>gether with the Castle; and that there is coming to his ashstance, out of the Southern parts, Col. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with his Troops: besides many others who endeavour a Conjunction in these Northern Counties.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
